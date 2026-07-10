@@ -4,6 +4,8 @@ let numberValue: number = 1000;
 let bigintValue: bigint = 1000000n;
 //bigint (usually use for big number values)
 
+let isAvailable: boolean = true;
+
 let stringValue: string = "I'm learning TypeScript";
 //string Type for sentence
 
